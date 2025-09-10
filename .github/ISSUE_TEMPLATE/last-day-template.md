@@ -1,6 +1,6 @@
 ---
-name: Last Day Template
-about: Describe this issue template's purpose here.
+name: Feature Request
+about: Have a new idea? We want to hear about it!
 title: ''
 labels: ''
 assignees: ''
