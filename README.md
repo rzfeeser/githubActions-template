@@ -4,7 +4,7 @@ Exploring how to create a template repo
 
 ---
 layout: default
-title: About
+title: About 
 ---
 # About This Site
 
